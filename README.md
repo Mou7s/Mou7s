@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mou7s
-- 👀 I’m interested in ...
+- 👀 I’m interested in frontEnd
 - 🌱 I’m currently learning JavaScript language 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Email:Mou7se@outloook.com
 
 <!---
 Mou7s/Mou7s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

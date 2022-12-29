@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mou7s
 - 👀 I’m interested in frontEnd
-- 🌱 I’m currently learning JavaScript language 
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email:Mou7se@outloook.com
 

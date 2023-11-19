@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mou7s
-- 👀 I’m interested in frontEnd;Javascript;Game develop;
+- 👀 I’m interested in frontEnd; Javascript and Game develop;
 - 🌱 I’m currently learning web design
 - 📫 How to reach me Email:liuchuge7777777@gmail.com
 

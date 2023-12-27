@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mou7s
-- 👀 I’m interested in frontEnd; Javascript and Game develop;
-- 🌱 I’m currently learning web design
+- 👀 I’m interested in Javascript, CSS and Games;
+- 🌱 I’m currently learning Vue
 - 📫 How to reach me Email:liuchuge7777777@gmail.com
 
 <!---

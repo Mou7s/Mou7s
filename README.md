@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mou7s
-- 👀 I’m interested in Javascript, CSS and Games;
-- 🌱 I’m currently learning Vue
-- 📫 How to reach me Email:liuchuge7777777@gmail.com
+- 👀 I’m interested in Rust, Dart and Typescript;
+- 🌱 I’m currently learning Nuxt and Rust (again)
+- 📫 How to reach me Email:liuchuge7@icloud.com
 
 <!---
 Mou7s/Mou7s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Nuxt and Rust (again)
 - 📫 How to reach me Email:liuchuge7@icloud.com
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mou7s&layout=compact" />
+
 <!---
 Mou7s/Mou7s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

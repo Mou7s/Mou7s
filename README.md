@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @Mou7s
-- 👀 I’m interested in Rust, Dart and Typescript;
-- 🌱 I’m currently learning Nuxt and Rust (again)
-- 📫 How to reach me Email:liuchuge7@icloud.com
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mou7s&layout=compact" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mou7s&layout=donut&langs_count=999)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mou7s)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+[![wakatime](https://wakatime.com/badge/user/0893cef1-f897-4088-ab8a-4e334cbc1d68.svg)](https://wakatime.com/@0893cef1-f897-4088-ab8a-4e334cbc1d68)
 
 <!---
 Mou7s/Mou7s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

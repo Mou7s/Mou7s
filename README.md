@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mou7s&layout=donut&langs_count=999)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/mou7s/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mou7s&layout=compact&theme=buefy&hide_border=true" /></a>
 
 </div>
 

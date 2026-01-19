@@ -6,7 +6,6 @@
 [![wakatime](https://wakatime.com/badge/user/0893cef1-f897-4088-ab8a-4e334cbc1d68.svg)](https://wakatime.com/@0893cef1-f897-4088-ab8a-4e334cbc1d68)
 ![vscode](https://img.shields.io/badge/IDE-Visual_Studio_Code-blue)
 ![Web Framework](https://img.shields.io/badge/Web_Framework-Nuxt-Green)
-![Music](https://img.shields.io/badge/Music-Apple_Music-ff0000)
 
 <!---
 Mou7s/Mou7s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
